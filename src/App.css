@@ -1,0 +1,15 @@
+#LearnMoreBtn,
+#DonateBtn,
+#RegisterBtn {
+  background-color: #9f2927;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in;
+  transition-delay: 0.1s;
+}
+
+#LearnMoreBtn:hover,
+#DonateBtn:hover,
+#RegisterBtn:hover {
+  cursor: pointer;
+  background-color: #d62926;
+}
